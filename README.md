@@ -1,2 +1,2 @@
 # Estrutura-de-Dados-Atividades
-## Atividades de Estrutura de Dados
+## Atividades de disciplina de Estrutura de Dados da UFS
